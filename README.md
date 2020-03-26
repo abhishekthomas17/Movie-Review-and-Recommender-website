@@ -13,7 +13,7 @@ Then install these packages :
 Steps:
 
 1) Navigate to the movie_reviews folder using commapnd prompt
-2) Run the following commands to perform migration of databases
+2) Run the following commands to perform migration of databases :
  python manage.py makemigrations
  python manage.py migrate
 3) Then use the below command to start the server and run website
