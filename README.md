@@ -12,7 +12,7 @@ Then install these packages :
 
 Steps:
 
-1) Navigate to the movie_reviews folder using commapnd prompt
+1) Navigate to the movie_reviews folder using command prompt
 2) Run the following commands to perform migration of databases :
  python manage.py makemigrations
  python manage.py migrate
